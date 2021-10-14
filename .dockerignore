@@ -1,0 +1,7 @@
+.dockerignore
+.git
+log/*
+tmp/*
+/node_modules
+/vendor
+/laradock
